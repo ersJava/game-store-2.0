@@ -25,3 +25,4 @@ This application is a simple database backed REST inventory management web servi
 * Spring Boot
 * MySQL
 * Mockito
+* Spring Security
