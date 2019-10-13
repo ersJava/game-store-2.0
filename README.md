@@ -1,7 +1,5 @@
 # Game Store Invoice Service 2.0
 
-<img src="https://github.com/Rahat-ch/project_seed/blob/master/client/src/assets/images/psLogo.png" width="250" height="230" alt="project seed logo">
-
 <img src="https://github.com/ersJava/game-store-2.0/blob/master/Screen%20Shot%202019-10-02%20at%2010.19.49%20PM.png" alt="video game store mock up">
 
 
