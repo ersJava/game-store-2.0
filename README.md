@@ -22,9 +22,9 @@ This application is a simple database backed REST inventory management web servi
 
 ### Security
 
-Manager role: can create new items, update inventory, make invoices for orders and do a search on invoices
-Admin role: can update inventory items and delete and search invoices
-Staff role: can update inventory items and search invoices
+- <b>Manager role</b>: can create new items, update inventory, make invoices for orders and do a search on invoices
+- Admin role: can update inventory items and delete and search invoices
+- Staff role: can update inventory items and search invoices
 
 Anyone: can perform searches for items
 
