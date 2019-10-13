@@ -20,6 +20,15 @@ This application is a simple database backed REST inventory management web servi
 - Each item has it's own unique processing fee. Any orders over 10 will have an additional processing fee of $15.49 is applied to the order
 - The order process logic properly updates the quantity so the order quantity must be less than or equal to the number of items on hand in the inventory.
 
+### Security
+
+Manager role: can create new items, update inventory, make invoices for orders and do a search on invoices
+Admin role: can update inventory items and delete and search invoices
+Staff role: can update inventory items and search invoices
+
+Anyone: can perform searches for items
+
+
 ### Technologies Used
 * Java
 * Spring Boot
